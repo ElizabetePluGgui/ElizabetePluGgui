@@ -11,8 +11,6 @@
 💗 Faço faculdade de Sistemas para Internet, na FATEC em Jaú, estou no 3* Semestre.<br>
 <br>
 
-<br>
-
 ## :man_technologist: Esses são alguns cursos que estão mudando minha História:
 
 Tecnologias | Experiência |
