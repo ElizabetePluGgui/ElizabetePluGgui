@@ -9,7 +9,6 @@
 💜 Olá, meu nome é Elizabete de Sousa Fabri , tenho 34 anos.<br>
 💛 Sou de Jaú interior de Sp, "Capital do calçados Feminino''.<br>
 💗 Faço faculdade de Sistemas para Internet, na FATEC em Jaú, estou no 3* Semestre.<br>
-<br>
 
 ## :man_technologist: Esses são alguns cursos que estão mudando minha História:
 
