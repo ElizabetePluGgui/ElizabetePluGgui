@@ -27,16 +27,16 @@
 <br />
 <br />
 
-## Developing languages:
+                    ## Developing languages:
 <br />
 
-Tecnologias | Experiência |
-| - | - |
-| HTML, CSS | :star: :star: :star: | 
-| Javascript | :star: :star: :star: |
-| React.js, Vue.js | :star: :star: :star: |
-| Node.js, PHP | :star: :star: :star: |
-| React-Native | :star: :star: :star: |
+                    Tecnologias | Experiência |
+                    | - | - |
+                    | HTML, CSS | :star: :star: :star: | 
+                    | Javascript | :star: :star: :star: |
+                    | React.js, Vue.js | :star: :star: :star: |
+                    | Node.js, PHP | :star: :star: :star: |
+                    | React-Native | :star: :star: :star: |
 
 
 
@@ -45,7 +45,7 @@ Sobre mim:
 - 🌱 Atualmete estou aprendendo: JavaScript, React and NodeJS
 - 👯 Sonho em colaborar nos projetos de Impacto Social 
 - 🤔 Procuro ajudar pessoas que estão começando na programação.
-- 📫 Como chegar até mim: [My Linkedin](https://www.linkedin.com/in/elizabete-fabri-a0927819b/)
+- 📫 Como chegar até mim: [Meu Linkedin](https://www.linkedin.com/in/elizabete-fabri-a0927819b/)
 - ⚡ Curiosidade: Não tenho nenhum talento especial, apenas sou curiosa.
 
 🚀 "Nada substitui a persistência, nem mesmo o talento." 🚀
