@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaoazevedojs)](https://www.linkedin.com/in/elizabete-fabri-a0927819b/)
 [![E-mail Badge](https://img.shields.io/badge/-E--mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@joaoazevedojs.com.br)](mailto:pluggi.programmer@gmail.com)
 
-# 🎀 Bem-Vindo ao meu perfil 🎀
+# 🎀 Welcome to my profile 🎀
 
 ## Hello World! :wave: :wave:
 ![fundo](./fundo.png)
@@ -10,7 +10,7 @@
 <p>"Hi there, I'm Elizabete de Sousa, I'm from Brazil. Welcome to my Github profile, I'm a Systems for internet student degree, A lover an also a student of this Software Development World, focused in Front-end Development."
 </p>
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -27,6 +27,8 @@
 <br />
 <br />
 
+## Developing languages:
+<br />
 
 Tecnologias | Experiência |
 | - | - |
