@@ -5,7 +5,7 @@
 # 🎀 Bem-Vindo ao meu perfil 🎀
 
 ## Hello World! :wave: :wave:
-![fundo](./fundo.png)
+![fundo](fundo.png)
 
 💜 Olá, meu nome é Elizabete de Sousa Fabri.<br>
 💛 Sou de Jaú interior de Sp, "Capital do calçados Feminino''.<br>
