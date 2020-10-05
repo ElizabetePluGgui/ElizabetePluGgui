@@ -7,7 +7,7 @@
 ## Hello World! :wave: :wave:
 <img  id="imagheader" src="https://github.com/ElizabetePluGgui/ElizabetePluGgui/blob/master/fundo.png">
 
-💜 Olá, meu nome é Elizabete de Sousa Fabri , tenho 34 anos.<br>
+💜 Olá, meu nome é Elizabete de Sousa Fabri.<br>
 💛 Sou de Jaú interior de Sp, "Capital do calçados Feminino''.<br>
 💗 Faço faculdade de Sistemas para Internet, na FATEC em Jaú, estou no 3* Semestre.<br>
 
