@@ -7,11 +7,8 @@
 ## Hello World! :wave: :wave:
 ![fundo](./fundo.png)
 
-💜 Olá, meu nome é Elizabete de Sousa Fabri.<br>
-💛 Sou de Jaú interior de Sp, "Capital do calçados Feminino''.<br>
-💗 Faço faculdade de Sistemas para Internet, na FATEC em Jaú, estou no 3* Semestre.<br>
-
-## :man_technologist: Esses são alguns cursos que estão mudando minha História:
+<p>"Hi there, I'm Elizabete de Sousa, I'm from Brazil. Welcome to my Github profile, I'm a Systems for internet student degree, A lover an also a student of this Software Development World, focused in Front-end Development."
+</p>
 
 ### Languages and Tools:
 
