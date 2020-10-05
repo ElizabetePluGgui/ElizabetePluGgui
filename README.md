@@ -11,6 +11,8 @@
 💛 Sou de Jaú interior de Sp, "Capital do calçados Feminino''.<br>
 💗 Faço faculdade de Sistemas para Internet, na FATEC em Jaú, estou no 3* Semestre.<br>
 
+## :man_technologist: Esses são alguns cursos que estão mudando minha História:
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -27,7 +29,7 @@
 
 <br />
 <br />
-## :man_technologist: Esses são alguns cursos que estão mudando minha História:
+
 
 Tecnologias | Experiência |
 | - | - |
