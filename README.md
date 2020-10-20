@@ -27,10 +27,9 @@
 <br />
 <br />
 
-## Developing languages:
+## Sobre mim:
 <br />
 
-Sobre mim:
 - 🔭 Atualmente estou desempregada
 - 🌱 Atualmete estou aprendendo: JavaScript, React and NodeJS
 - 👯 Sonho em colaborar nos projetos de Impacto Social 
