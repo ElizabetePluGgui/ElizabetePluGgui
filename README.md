@@ -30,16 +30,6 @@
 ## Developing languages:
 <br />
 
-Tecnologias | Experiência |
-| - | - |
-| HTML, CSS | :star: :star: :star: | 
-| Javascript | :star: :star: :star: |
-| React.js, Vue.js | :star: :star: :star: |
-| Node.js, PHP | :star: :star: :star: |
-| React-Native | :star: :star: :star: |
-
-
-
 Sobre mim:
 - 🔭 Atualmente estou desempregada
 - 🌱 Atualmete estou aprendendo: JavaScript, React and NodeJS
