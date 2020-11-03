@@ -30,11 +30,10 @@
 ## Sobre mim:
 <br />
 
-- 🔭 Atualmente estou desempregada
 - 🌱 Atualmete estou aprendendo: JavaScript, React and NodeJS
 - 👯 Sonho em colaborar nos projetos de Impacto Social 
 - 🤔 Procuro ajudar pessoas que estão começando na programação.
-- 📫 Como chegar até mim: [My Linkedin](https://www.linkedin.com/in/elizabete-fabri-a0927819b/)
+- 📫 Como chegar até mim: [My Linkedin](https://www.linkedin.com/in/elizabete-fabri2020/)
 - ⚡ Curiosidade: Não tenho nenhum talento especial, apenas sou curiosa.
 
 🚀 "Nada substitui a persistência, nem mesmo o talento." 🚀
