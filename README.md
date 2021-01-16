@@ -5,9 +5,11 @@
 # 🎀 Welcome to my profile 🎀
 
 ## Hello World! :wave: :wave:
+
 ![fundo](./fundo.png)
 
-<p>"Hi there, I'm Elizabete de Sousa, I'm from Brazil. Welcome to my Github profile, I'm a Systems for internet student degree, A lover an also a student of this Software Development World, focused in Front-end Development."
+<p>
+“Hi, I'm Elizabete de Sousa, I'm from Brazil. Welcome to my Github profile, I am a student of Internet Systems. I am currently focused on Software Development, with a focus on Front-end Development. "
 </p>
 
 ## Languages and Tools:
@@ -28,10 +30,11 @@
 <br />
 
 ## Sobre mim:
+
 <br />
 
 - 🌱 Atualmete estou aprendendo: JavaScript, React and NodeJS
-- 👯 Sonho em colaborar nos projetos de Impacto Social 
+- 👯 Sonho em colaborar nos projetos de Impacto Social
 - 🤔 Procuro ajudar pessoas que estão começando na programação.
 - 📫 Como chegar até mim: [My Linkedin](https://www.linkedin.com/in/elizabete-fabri2020/)
 - ⚡ Curiosidade: Não tenho nenhum talento especial, apenas sou curiosa.
