@@ -9,7 +9,7 @@
 ![fundo](./fundo.png)
 
 <p>
-“Hi, I'm Elizabete de Sousa, I'm from Brazil. Welcome to my Github profile, I am a student of Internet Systems. I am currently focused on Software Development, with a focus on Front-end Development. "
+“My name is Elizabete de Sousa Fabri and I'm a FrontEnd Web Developer. I have been working in the technology area since 2019, carrying out personal projects and working as a freelancer. I'm 35 years old and I live in Jaú, São Paulo. I always try to be updated with new market trends and my goal is always bring the best and most innovative solutions to my customers, with clean code, adding value to their products at each completed step. "
 </p>
 
 ## Languages and Tools:
